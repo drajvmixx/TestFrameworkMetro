@@ -1,7 +1,7 @@
-#Task #3. Test Framework.
+# Task #3. Test Framework.
 ## by Iryna Shelevii
 
-###Requirements
+### Requirements
 - Java 8 or above.
 
 - Maven
